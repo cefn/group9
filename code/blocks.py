@@ -6,6 +6,11 @@ while iron == hot:
     
 if fits(shoe):
     wear(shoe)
+    
+for cloud in clouds:
+    if cloud.lining != silver:
+        break
+        
 
 
     
